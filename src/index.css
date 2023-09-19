@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    background-color: #131214;
+    color: #EAE6F2;
+    font-size: 1.6rem;
+    overflow: auto;
+    /* height: 100vh; */
+}
+
